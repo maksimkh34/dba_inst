@@ -1,2 +1,3 @@
 0.7.3f (SQLite Update)
-* Вся система была перенесена на SQLite
+* Now system works using SQLite
+* users.zb -> datab.zb (users.zb can be deleted)
